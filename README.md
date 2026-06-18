@@ -5,6 +5,8 @@ Real-time monitoring dashboard for gate chains. Each gate is an IP address check
 ## Quick Start
 
 ```bash
+git clone https://github.com/AmrMustafa282/Dabaa_gates.git
+cd Dabaa_gates
 docker compose up --build
 ```
 
